@@ -1,2 +1,3 @@
 # codingexamples
-This repository contains Java coding examples
+This repository contains Java coding examples.
+Feel free to learn something from them!
