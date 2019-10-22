@@ -10,15 +10,13 @@ public class ReverseList {
             namelist.add(name);
             name = scanner.nextLine();
         }
-        System.out.println("Namelist: " + namelist);
+        System.out.println("Original Namelist: " + namelist);
         System.out.println("Namelist reversed manually: ");
         for (int i = namelist.size() - 1; i >= 0; i--) {
             System.out.println(namelist.get(i));
         }
         Collections.reverse(namelist);
         System.out.println("Namelist reversed using Collections method: " + namelist);
-
         Set<String> emails = new HashSet<>();
-
     }
 }
