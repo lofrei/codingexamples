@@ -1,6 +1,7 @@
 package lesson7;
 import java.util.List;
 
+// Two types of shapes using interface Shape
 public class Shapes {
 
     interface Shape {
