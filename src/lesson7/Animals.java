@@ -2,7 +2,7 @@ package lesson7;
 
 // Example taken from https://www.tutorialspoint.com/java/java_polymorphism.htm
 public class Animals {
-    
+
     interface Vegetarian{}
     static class Animal{}
     static class Deer extends Animal implements Vegetarian{}
