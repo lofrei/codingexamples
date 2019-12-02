@@ -80,7 +80,7 @@ public class BookingSystem1 {
                 new OnOffCourse("Java Advanced", "Fall", 2020));
 
         String semester = "Fall";
-        int year = 2020;
+        int year = 2019;
 
         System.out.println("Available courses in " + semester + " semester " + year + ":");
         for (Course course : courses) {
