@@ -1,0 +1,7 @@
+package Intro2Java_Examples;
+
+public class HelloWorld {
+    public static void main(String... args){
+        System.out.println("Hello, World!");
+    }
+}
