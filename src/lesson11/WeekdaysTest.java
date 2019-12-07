@@ -3,7 +3,7 @@ package lesson11;
 //Source https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html (class/file name chsnged)
 enum Day {
     SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
-    THURSDAY, FRIDAY, SATURDAY
+    THURSDAY, FRIDAY, SATURDAY;
 }
 
 public class WeekdaysTest {
